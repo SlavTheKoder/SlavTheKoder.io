@@ -1,1 +1,2 @@
 # SlavTheKoder.io
+Первые попытки 
